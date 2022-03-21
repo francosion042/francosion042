@@ -2,7 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/francosion042)
 ![Profile views](https://gpvc.arturio.dev/francosion042)
 
-### Hey stranger 👋, my name is Anthony, a Blockchain Engineer.
+### Hey stranger 👋, i'm Anthony, a Blockchain Engineer.
 
 - 👯 I’m looking to collaborate with other developers.
 - 😊 Willing to contribute to open-source projects.
