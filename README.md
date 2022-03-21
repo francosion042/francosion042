@@ -1,16 +1,26 @@
-### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Anthony-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthony-nwobodo-a3b154185/)](https://www.linkedin.com/in/anthony-nwobodo-a3b154185/)
+![GitHub followers](https://img.shields.io/github/followers/francosion042)
+![Profile views](https://gpvc.arturio.dev/francosion042)
 
-<!--
-**francosion042/francosion042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey stranger 👋, my name is Anthony, a Blockchain Engineer.
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate with other developers.
+- 😊 Willing to contribute to open-source projects.
+- 👌 I'm also open to (remote) job offers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Get in touch
+
+- LinkedIn: [linkedin.com/in/anthony-nwobodo-a3b154185][1]
+- Twitter: [twitter.com/Francosion042][2]
+
+
+### &#x1f4c8; GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francosion042&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=francosion042&show_icons=true&theme=merko&hide=issues) 
+
+
+
+
+[1]: https://www.linkedin.com/in/anthony-nwobodo-a3b154185/
+[2]: https://twitter.com/intent/follow?screen_name=Francosion042
