@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Anthony-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthony-nwobodo-a3b154185/)](https://www.linkedin.com/in/anthony-nwobodo-a3b154185/)
+[![Linkedin Badge](https://img.shields.io/badge/-Anthony-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthony-nwobodo-a3b154185/)](https://www.linkedin.com/in/anthony-nwobodo/)
 ![GitHub followers](https://img.shields.io/github/followers/francosion042)
 ![Profile views](https://gpvc.arturio.dev/francosion042)
 
@@ -10,7 +10,7 @@
 
 ## 📬 Get in touch
 
-- LinkedIn: [linkedin.com/in/anthony-nwobodo-a3b154185][1]
+- LinkedIn: [linkedin.com/in/anthony-nwobodo/][1]
 - Twitter: [twitter.com/Francosion042][2]
 
 
@@ -22,5 +22,5 @@
 
 
 
-[1]: https://www.linkedin.com/in/anthony-nwobodo-a3b154185/
+[1]: https://www.linkedin.com/in/anthony-nwobodo/
 [2]: https://twitter.com/intent/follow?screen_name=Francosion042
