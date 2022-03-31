@@ -14,10 +14,10 @@
 - Twitter: [twitter.com/Francosion042][2]
 
 
-### &#x1f4c8; GitHub Stats
+<!-- ### &#x1f4c8; GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francosion042&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=francosion042&show_icons=true&theme=merko&hide=issues) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=francosion042&show_icons=true&theme=merko&hide=issues)  -->
 
 
 
