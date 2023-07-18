@@ -1,6 +1,3 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Anthony-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthony-nwobodo-a3b154185/)](https://www.linkedin.com/in/anthony-nwobodo/)
-![GitHub followers](https://img.shields.io/github/followers/francosion042)
-![Profile views](https://gpvc.arturio.dev/francosion042)
 
 ### Hey stranger 👋, i'm Anthony.
 
