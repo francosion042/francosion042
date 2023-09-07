@@ -1,13 +1,6 @@
 
 ### Hey stranger 👋, i'm Anthony.
 
-- 👌 I'm open to (remote) gigs.
-
-## 📬 Get in touch
-
-- LinkedIn: [linkedin.com/in/anthony-nwobodo/][1]
-- Twitter: [twitter.com/Francosion042][2]
-
 
 <!-- ### &#x1f4c8; GitHub Stats
 
