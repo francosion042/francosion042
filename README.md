@@ -1,14 +1,8 @@
-
-# Hello! 👋
-
-I'm a Backend Engineer, with over 5 years of professional experience in designing, deploying, and building robust and scalable systems. My journey in the tech world has been thrilling, and I'm passionate about solving real-world problems through code. I thrive in innovative startup environments and love exploring new technologies.
-
 ## 🌱 Interests
 - **Backend Engineering**: Crafting efficient, scalable, and robust backend architectures is where I excel. I enjoy creating seamless APIs and optimizing database interactions.
 - **Open Source**: Contributing to open source projects and being a part of the global developer community is something I find rewarding.
 - **Architectural Design**: Designing system architectures that are both resilient and easy to maintain is a pursuit I find both challenging and rewarding.
 - **Database Management**: Ensuring data integrity, optimizing queries, and designing schemas are tasks I relish.
-- **Indie Hacking**: I enjoy building and growing indie hack projects from the ground up.
 - **Blockchain Technology**: Fascinated by blockchain and its potential to revolutionize various sectors.
 
 ## 💼 Core Skills
@@ -22,6 +16,8 @@ I'm a Backend Engineer, with over 5 years of professional experience in designin
 I regularly jot down my technical insights, learning, and write articles on various topics that intrigue me in the tech realm. You can read my notes and articles on my personal blog [nwobodo.me](https://nwobodo.me).
   
 ## 🛠️ Indie Hack Projects
+I enjoy building and growing indie hack projects from the ground up.
+
 - [Console-Watcher](https://www.npmjs.com/package/console-watcher) - A utility library designed to monitor and handle console outputs in a Node.js environment.
 - [DecentraSound Mobile](https://github.com/francosion042/DecentraSound-Mobile) | [DecentraSound Backend](https://github.com/francosion042/DecentraSound-Backend) - A Blockchain replica of Apple Music and Spotify, plays ERC-721 music tokens.
 
