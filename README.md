@@ -18,13 +18,14 @@ I regularly jot down my technical insights, learning, and write articles on vari
 ## 🛠️ Indie Hack Projects
 I enjoy building and growing indie hack projects from the ground up.
 
+- [Solitary](https://solitary.life/) - World's first introverts community and resource app.
 - [Console-Watcher](https://www.npmjs.com/package/console-watcher) - A utility library designed to monitor and handle console outputs in a Node.js environment.
 - [DecentraSound Mobile](https://github.com/francosion042/DecentraSound-Mobile) | [DecentraSound Backend](https://github.com/francosion042/DecentraSound-Backend) - A Blockchain replica of Apple Music and Spotify, plays ERC-721 music tokens.
 
 Feel free to explore the repositories to know more about these projects!
 
 ## 📬 Get in Touch
-- LinkedIn: [linkedin.com/in/anthonynwobodo7](https://linkedin.com/in/anthonynwobodo7)
+- LinkedIn: [linkedin.com/in/anthonynwobodo7](https://linkedin.com/in/anthony-nwobodo)
 - Email: [anthonynwobodo7@gmail.com](mailto:anthonynwobodo7@gmail.com)
 
 I'm always open to collaboration, or just a friendly chat. Feel free to reach out, and let's connect!
